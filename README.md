@@ -1,6 +1,4 @@
 ## Hi there, I am Abhinav👋
-[![Linkedin Badge](www.linkedin.com/in/abhinavbammidi1401)]
-
 ---
 
 ## 🌟 About Me
