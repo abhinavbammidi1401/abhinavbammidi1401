@@ -3,8 +3,6 @@
 
 ## 🌟 About Me
 
- "I am a passionate data scientist skilled in Python for data analysis, machine learning, natural language processing (NLP), and computer vision (CV). I specialize in developing predictive models and leveraging data visualization tools to effectively communicate insights. I actively contribute to open-source projects and am dedicated to continuously expanding my knowledge in data science and related technologies. Currently - 🌱 I’m currently learning *Python and SQL*
-
 ---
 
 **abhinavbammidi1401/abhinavbammidi1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
